@@ -20,5 +20,4 @@ const simpleCalculator = (num1, num2, operation) => {
             return "Something is Wrong"
     }
 }
-
 console.log(simpleCalculator(10, 5, "*"))
